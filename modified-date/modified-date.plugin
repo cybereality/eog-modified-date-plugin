@@ -1,0 +1,9 @@
+[Plugin]
+Module=modified-date
+IAge=3
+Loader=python3
+Name=Sort by Modified Date
+Icon=media-playlist-repeat
+Description=Navigate images based on date
+Authors=Andres Hernandez <cybereality@gmail.com>
+Copyright=Copyright © 2021 Andres Hernandez
