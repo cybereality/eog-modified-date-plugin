@@ -2,6 +2,8 @@
 
 Plug-in for Eye of GNOME to navigate images based on modified date.
 
+![Screenshot](screenshots/modified-date.jpg)
+
 ## INSTALLATION
 
 Download the folder `modified-date` and copy the entire folder into:
