@@ -6,7 +6,7 @@ Plug-in for Eye of GNOME to navigate images based on modified date.
 
 ## DOWNLOAD
 
-[Click Here to Download the Latest Release](releases/latest)
+[Click Here to Download the Latest Release](https://github.com/cybereality/eog-modified-date-plugin/releases/latest)
 
 ## INSTALLATION
 
