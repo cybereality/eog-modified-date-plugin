@@ -4,9 +4,15 @@ Plug-in for Eye of GNOME to navigate images based on modified date.
 
 ![Screenshot](screenshots/modified-date.jpg)
 
+## DOWNLOAD
+
+[Click Here to Download the Latest Release](releases/latest)
+
 ## INSTALLATION
 
-Download the folder `modified-date` and copy the entire folder into:
+Extract the downloaded source code files to your computer.
+
+Find the folder `modified-date` and copy the entire folder into:
 
 `$XDG_DATA_HOME/eog/plugins/`
 
